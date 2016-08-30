@@ -1,0 +1,3 @@
+http://jsfiddle.net/ - show js, html code and result on the fly
+http://codepen.io/ - like jsfiddle plus a console
+https://css-tricks.com/ - good resource for front end developers
